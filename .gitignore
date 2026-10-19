@@ -1,0 +1,12 @@
+node_modules/
+.env
+.DS_Store
+.vscode/
+.idea/
+*.log
+
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfvars
