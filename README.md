@@ -166,7 +166,7 @@ Find the `EXTERNAL-IP` (it looks like a long AWS link) and paste it into your br
 
 ## 👨‍💻 About the Author
 
-**Shubham Gayke**  
+**Aditya Tangade**  
 *Passionate about Cloud, Automation, and making things scale.*  
 **Skills:** Linux | AWS | Kubernetes | Terraform | Docker | CI/CD
 
